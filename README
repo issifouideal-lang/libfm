@@ -10,7 +10,7 @@ Notes for compilation:
    - Gtk-doc-tools 1.14 or newer.
    - Dbus-Glib-1.
    - Libexif.
-
+appli -tracker
 
 Notes for runtime environment:
 1. The file alteration monitor is done via GFileMonitor built into glib.
